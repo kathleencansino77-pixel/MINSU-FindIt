@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Black Wallet",
+    "type": "Lost",
+    "category": "Personal Items",
+    "location": "University Library",
+    "date": "2026-09-28",
+    "description": "Black leather wallet containing several cards.",
+    "reporter": "Juan Dela Cruz",
+    "contact": "09123456789",
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "title": "USB Flash Drive",
+    "type": "Found",
+    "category": "Electronics",
+    "location": "Computer Laboratory",
+    "date": "2026-09-29",
+    "description": "32GB black USB flash drive.",
+    "reporter": "Maria Santos",
+    "contact": "09987654321",
+    "status": "Found"
+  },
+  {
+    "id": 3,
+    "title": "Student ID",
+    "type": "Lost",
+    "category": "Documents",
+    "location": "Main Building",
+    "date": "2026-09-30",
+    "description": "Student identification card in a transparent holder.",
+    "reporter": "Alex Reyes",
+    "contact": "09111222333",
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "title": "Black Umbrella",
+    "type": "Found",
+    "category": "Personal Items",
+    "location": "Student Center",
+    "date": "2026-09-30",
+    "description": "Black foldable umbrella left near the entrance.",
+    "reporter": "Mark Garcia",
+    "contact": "09223334444",
+    "status": "Found"
+  }
+]
